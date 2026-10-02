@@ -601,6 +601,8 @@ required_symbols=(
   PACKAGE_shadowsocks-libev-ss-redir
   PACKAGE_trojan
   PACKAGE_miniupnpd
+  PACKAGE_iptables-mod-socket
+  PACKAGE_nftables
   CCACHE
 )
 
